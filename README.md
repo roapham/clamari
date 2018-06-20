@@ -4,6 +4,7 @@
   react-native run-ios
   ```
   -- or --
+  
   Open ios/clamari.xcodeproj in Xcode
   Hit the Run button
 ### To run your app on Android:
